@@ -1,10 +1,10 @@
-**Fire Station Allocation Optimization**
+###**Fire Station Allocation Optimization**
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project optimizes fire station placement in Izmir to minimize emergency response times. We applied Particle Swarm Optimization (PSO), Genetic Algorithm (GA), and Simulated Annealing (SA) to efficiently distribute fire stations while considering fire frequency, travel times, and budget constraints.
 
-⚙️ Methods Used
+⚙️ **Methods Used**
 
 Particle Swarm Optimization (PSO): Optimizes fire station allocation by minimizing response time.
 
@@ -12,13 +12,13 @@ Genetic Algorithm (GA): Uses evolutionary principles to optimize resource distri
 
 Simulated Annealing (SA): Probabilistically explores optimal station placements.
 
-🛠 Technologies
+🛠 **Technologies**
 
 Python
 
 Libraries: NumPy, Pandas, Matplotlib
 
-🚀 Getting Started
+🚀 **Getting Started**
 
 Prerequisites
 
@@ -30,7 +30,7 @@ Installation & Usage
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/Firefighting-Optimization.git](https://github.com/battal20/Optimization-Project-Fire-Station-Allocation-Optimization
+git clone https://github.com/battal20/Optimization-Project-Fire-Station-Allocation-Optimization
 
 Navigate to the project folder:
 
@@ -40,7 +40,7 @@ Run the Jupyter Notebook or script:
 
 jupyter notebook YZV202E_project_main.ipynb
 
-🔮 Future Enhancements
+🔮 **Future Enhancements**
 
 Integrate real-time traffic data for more accurate response time estimation.
 
