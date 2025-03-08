@@ -1,4 +1,4 @@
-Fire Station Allocation Optimization
+**Fire Station Allocation Optimization**
 
 📌 Project Overview
 
